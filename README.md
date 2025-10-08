@@ -1,6 +1,4 @@
-# Road_Accident_Data_Analysis_Excel_Project
-
-Road Accident Analytics Dashboard | Microsoft Excel | Excel BI Project
+# Road Accident Analytics Dashboard | Microsoft Excel | Excel BI Project
 
 Objective: To analyze accident data across vehicle types, road surfaces, and lighting conditions to identify key risk factors and areas needing safety improvement.
 
